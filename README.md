@@ -1,16 +1,24 @@
-### Hi there 👋
+## Oi, eu sou o Matheus😉
 
-<!--
-**MatheusMorata/MatheusMorata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sistemas 
+<div>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/>
+</div>
 
-Here are some ideas to get you started:
+#### Algumas coisas 
+<div>
+  <img src="https://img.shields.io/badge/Eu programo no Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/><img src="https://img.shields.io/badge/Eu navego no Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Habilidades
+<div>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+
+#### Sobre mim
+<ul>
+  <li>🖥️ Eu amo computadores.</li>
+  <li>🌱 No momento estou estudando linguagens de script. Lua e Python.</li>
+</ul>
