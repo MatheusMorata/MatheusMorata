@@ -2,12 +2,12 @@
 
 #### Sistemas 
 <div>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
 #### Algumas coisas 
 <div>
-  <img src="https://img.shields.io/badge/Eu programo no Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/><img src="https://img.shields.io/badge/Eu navego no Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
 </div>
 
 #### Habilidades
