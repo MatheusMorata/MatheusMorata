@@ -16,9 +16,9 @@
 
 #### Habilidades
 <section align="center" style="display: inline_block">
-  img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/lua/lua-original.svg" alt="Lua" />
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/lua/lua-original.svg" alt="Lua" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" alt="Python" />
-  img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" alt="HTML5" />
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" alt="HTML5" />
 </section>
 
 #### Sobre mim
