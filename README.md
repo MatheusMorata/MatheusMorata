@@ -25,6 +25,6 @@
 
 #### Sobre mim
 <ul>
-  <li>🖥️ Eu gosto computadores.</li>
+  <li>🖥️ Eu gosto de computadores.</li>
   <li>🌱 No momento estou estudando linguagens de script. Lua e Python.</li>
 </ul>
