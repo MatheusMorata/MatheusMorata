@@ -27,4 +27,5 @@
 <ul>
   <li>🖥️ Eu gosto de computadores.</li>
   <li>🌱 No momento estou estudando linguagens de script. Lua e Python.</li>
+  <li>⚡ Curiosidade: Eu sou apaixonado por carros desde o meu primeiro dia de vida.</li>
 </ul>
