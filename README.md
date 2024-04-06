@@ -19,7 +19,9 @@
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/lua/lua-original.svg" alt="Lua" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" alt="Python" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" alt="Django" />
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flask/flask-original.svg" alt="Flask" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-original.svg" alt="nodejs" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" alt="HTML5" />
 </section>
 
