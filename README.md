@@ -31,3 +31,5 @@
   <li>🌱 No momento estou estudando linguagens de script. Lua e Python.</li>
   <li>⚡ Curiosidade: Eu sou apaixonado por carros desde o meu primeiro dia de vida.</li>
 </ul>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
