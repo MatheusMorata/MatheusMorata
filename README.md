@@ -32,4 +32,4 @@
   <li>⚡ Curiosidade: Eu sou apaixonado por carros desde o meu primeiro dia de vida.</li>
 </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMorata&layout=Demo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMorata&layout=compact)
