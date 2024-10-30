@@ -30,7 +30,6 @@
   <li>🖥️ Eu gosto de computadores.</li>
   <li>🌱 No momento estou estudando. <b>Lua, Python e JavaScript/NodeJS.</b></li>
   <li>⚡ Curiosidade: Eu sou apaixonado por carros desde o meu primeiro dia de vida.</li>
-  <li>🧑🏻‍💻 Estou em busca de uma vaga de estágio.</li>
 </ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMorata&layout=compact)
