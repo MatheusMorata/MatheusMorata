@@ -16,7 +16,7 @@
 
 #### Linguagens
 <section align="center" style="display: inline_block">
-  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/lua/lua-original.svg" alt="Lua" />
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-original.svg" alt="Lua" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" alt="Python" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" alt="C" />
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/php/php-plain.svg" alt="PHP" />
